@@ -7,3 +7,4 @@
 - [Predict Diamond Prices](https://github.com/Asma-Nasr/Machine-Learning-Projects/tree/main/Predict%20Diamond%20Prices) 
 - [Most Subscribed YouTube Channels](https://github.com/Asma-Nasr/Machine-Learning-Projects/tree/main/Most%20Subscribed%20Youtube%20Channels) 
 - [Olympics](https://github.com/Asma-Nasr/Machine-Learning-Projects/tree/main/Olympics)
+- [Effects of Alcohol on Student Performance](https://github.com/Asma-Nasr/Machine-Learning-Projects/tree/main/Effects%20of%20Alcohol%20on%20Student%20Performance)
