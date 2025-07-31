@@ -8,3 +8,4 @@
 - [Most Subscribed YouTube Channels](https://github.com/Asma-Nasr/Machine-Learning-Projects/tree/main/Most%20Subscribed%20Youtube%20Channels) 
 - [Olympics Exploratory Data Analysis](https://github.com/Asma-Nasr/Machine-Learning-Projects/tree/main/Olympics)
 - [Effects of Alcohol on Student Performance](https://github.com/Asma-Nasr/Machine-Learning-Projects/tree/main/Effects%20of%20Alcohol%20on%20Student%20Performance)
+- [Disease Risk from Daily Habits](https://github.com/Asma-Nasr/Machine-Learning-Projects/tree/main/Disease%20Risk%20from%20Daily%20Habits)
